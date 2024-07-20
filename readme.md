@@ -1,0 +1,1 @@
+Welcome to the Exception Testing repository! This project focuses on testing exception handling in PHP. It includes a suite of tests designed to ensure that exceptions are properly thrown and handled in various scenarios.
